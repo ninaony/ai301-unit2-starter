@@ -43,9 +43,6 @@ Format each rule like this:
 - Wrong: "By tomorrow..."
 - Right: "Repro report on the way"
 
-Name the version and the behavior: 
-
-
 ### Rule: Name the version and the behavior
 - Wrong: "This bug"
 - Right: "v1.20.0 ignores --style"
